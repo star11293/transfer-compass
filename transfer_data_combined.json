@@ -1,0 +1,1534 @@
+{
+  "schools": {
+    "CCBC": {
+      "name": "Community College of Baltimore County",
+      "abbreviation": "CCBC",
+      "total_courses": 110,
+      "courses": {
+        "ACCT101": {
+          "title": "Principles of Accounting I",
+          "credits": 3,
+          "umd_equivalent": "BMGT 220",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ACCT102": {
+          "title": "Principles of Accounting II",
+          "credits": 3,
+          "umd_equivalent": "BMGT 221",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ACDV101": {
+          "title": "Transitioning to College",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "",
+          "notes": "Lower-level elective. Counts toward MTAP 30-credit minimum."
+        },
+        "BIOL100": {
+          "title": "Exploring Biology",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "DSNS",
+          "notes": "Satisfies DSNS gen ed"
+        },
+        "BIOL101": {
+          "title": "General Biology I",
+          "credits": 4,
+          "umd_equivalent": "BSCI 105",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": "Satisfies DSNL gen ed"
+        },
+        "BIOL108": {
+          "title": "General Biology II",
+          "credits": 4,
+          "umd_equivalent": "BSCI 106",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": ""
+        },
+        "BIOL110": {
+          "title": "Biology I: Molecules/Cell",
+          "credits": 4,
+          "umd_equivalent": "BSCI 170",
+          "status": "direct",
+          "gen_ed": "DSNL or DSNS",
+          "notes": "Also equivalent to BSCI 171"
+        },
+        "BIOL111": {
+          "title": "Biology II: Organism/Ecology",
+          "credits": 4,
+          "umd_equivalent": "BSCI 160",
+          "status": "direct",
+          "gen_ed": "DSNL or DSNS",
+          "notes": "Also equivalent to BSCI 161"
+        },
+        "BIOL201": {
+          "title": "Human Anatomy & Physiology I",
+          "credits": 4,
+          "umd_equivalent": "BSCI 201",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": ""
+        },
+        "BIOL220": {
+          "title": "Human Anatomy & Physiology I",
+          "credits": 4,
+          "umd_equivalent": "BSCI 201",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": ""
+        },
+        "BIOL221": {
+          "title": "Anatomy & Physiology II",
+          "credits": 4,
+          "umd_equivalent": "BSCI 202",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "BIOL230": {
+          "title": "Microbiology",
+          "credits": 4,
+          "umd_equivalent": "BSCI 223",
+          "status": "direct",
+          "gen_ed": "DSNL, SCIS",
+          "notes": ""
+        },
+        "BIOL251": {
+          "title": "Principles of Genetics",
+          "credits": 4,
+          "umd_equivalent": "BSCI 222",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "BIOL256": {
+          "title": "Nutrition",
+          "credits": 3,
+          "umd_equivalent": "NFSC 100",
+          "status": "direct",
+          "gen_ed": "DSNS",
+          "notes": ""
+        },
+        "CHEM105": {
+          "title": "College Chemistry I",
+          "credits": 4,
+          "umd_equivalent": "CHEM 131",
+          "status": "direct",
+          "gen_ed": "DSNL or DSNS",
+          "notes": "Also equivalent to CHEM 132"
+        },
+        "CHEM121": {
+          "title": "General Chemistry I",
+          "credits": 4,
+          "umd_equivalent": "CHEM 131",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": ""
+        },
+        "CHEM123": {
+          "title": "General Chemistry II",
+          "credits": 4,
+          "umd_equivalent": "CHEM 271",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": ""
+        },
+        "CHEM131": {
+          "title": "General Chemistry I",
+          "credits": 4,
+          "umd_equivalent": "CHEM 131",
+          "status": "direct",
+          "gen_ed": "DSNL or DSNS",
+          "notes": "Also equivalent to CHEM 132"
+        },
+        "CHEM133": {
+          "title": "General Chemistry II",
+          "credits": 4,
+          "umd_equivalent": "CHEM 271",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "CHEM200": {
+          "title": "Organic Chemistry I",
+          "credits": 4,
+          "umd_equivalent": "CHEM 231",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "CHEM202": {
+          "title": "Organic Chemistry II",
+          "credits": 4,
+          "umd_equivalent": "CHEM 241",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "CMNS101": {
+          "title": "Fundamentals of Communication",
+          "credits": 3,
+          "umd_equivalent": "COMM 107",
+          "status": "direct",
+          "gen_ed": "FSOC",
+          "notes": "Satisfies FSOC gen ed"
+        },
+        "CMSC180": {
+          "title": "C Programming",
+          "credits": 3,
+          "umd_equivalent": "CMSC 106",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "CMSC201": {
+          "title": "Computer Science I",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "",
+          "notes": "Accepted as L1 lower-level elective. Does NOT map to CMSC 131."
+        },
+        "CMSC202": {
+          "title": "Computer Science II",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "",
+          "notes": "Accepted as L1 lower-level elective. Does NOT map to CMSC 132."
+        },
+        "CMSC243": {
+          "title": "Discrete Mathematics",
+          "credits": 3,
+          "umd_equivalent": "CMSC 250",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": "Direct equivalency to CMSC 250"
+        },
+        "CSIT101": {
+          "title": "Technology & Information Systems",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "DSXX",
+          "notes": "Satisfies a gen ed distributive studies requirement"
+        },
+        "CSIT111": {
+          "title": "Fundamentals of Logic & Design",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "DSXX",
+          "notes": "Satisfies a gen ed distributive studies requirement"
+        },
+        "CSIT120": {
+          "title": "Diversity in Technology & Society",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "DSHS, DVUP",
+          "notes": "Satisfies DSHS and diversity gen ed"
+        },
+        "CSIT121": {
+          "title": "Web Standards",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "",
+          "notes": "Lower-level elective"
+        },
+        "CSIT210": {
+          "title": "Intro to Programming",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "",
+          "notes": "Lower-level elective"
+        },
+        "CSIT211": {
+          "title": "Advanced Programming",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "",
+          "notes": "Lower-level elective"
+        },
+        "CSIT214": {
+          "title": "C++ Programming",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "",
+          "notes": "Lower-level elective"
+        },
+        "CSIT216": {
+          "title": "Python Programming",
+          "credits": 3,
+          "umd_equivalent": "INST 126",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ECON201": {
+          "title": "Intro to Macroeconomics",
+          "credits": 3,
+          "umd_equivalent": "ECON 201",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": "Satisfies DSHS gen ed"
+        },
+        "ECON202": {
+          "title": "Intro to Microeconomics",
+          "credits": 3,
+          "umd_equivalent": "ECON 200",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": "Satisfies DSHS gen ed"
+        },
+        "ENGL101": {
+          "title": "College Composition I",
+          "credits": 3,
+          "umd_equivalent": "ENGL 101",
+          "status": "direct",
+          "gen_ed": "FSAW",
+          "notes": "Satisfies FSAW gen ed. Note: for recent terms accepted as gen ed only, check term dates."
+        },
+        "ENGL102": {
+          "title": "College Composition II",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "DSSP",
+          "notes": "Satisfies DSSP gen ed (recent terms). Check term dates for exact equivalency."
+        },
+        "ENGL106": {
+          "title": "English Grammar",
+          "credits": 3,
+          "umd_equivalent": "ENGL 281",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENGL201": {
+          "title": "British Literature I",
+          "credits": 3,
+          "umd_equivalent": "ENGL 211",
+          "status": "direct",
+          "gen_ed": "DSHU",
+          "notes": "Satisfies DSHU gen ed"
+        },
+        "ENGL202": {
+          "title": "British Literature II",
+          "credits": 3,
+          "umd_equivalent": "ENGL 212",
+          "status": "direct",
+          "gen_ed": "DSHU",
+          "notes": ""
+        },
+        "ENGL203": {
+          "title": "American Literature I",
+          "credits": 3,
+          "umd_equivalent": "ENGL 221",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENGL204": {
+          "title": "American Literature II",
+          "credits": 3,
+          "umd_equivalent": "ENGL 222",
+          "status": "direct",
+          "gen_ed": "DSHU",
+          "notes": ""
+        },
+        "ENGL205": {
+          "title": "World Literature I",
+          "credits": 3,
+          "umd_equivalent": "ENGL 201",
+          "status": "direct",
+          "gen_ed": "DSHU, DVUP",
+          "notes": ""
+        },
+        "ENGL213": {
+          "title": "Technical Writing",
+          "credits": 3,
+          "umd_equivalent": "ENGL 291",
+          "status": "direct",
+          "gen_ed": "FSAW",
+          "notes": ""
+        },
+        "ENSC101": {
+          "title": "Intro to Engineering Design",
+          "credits": 3,
+          "umd_equivalent": "ENES 100",
+          "status": "direct",
+          "gen_ed": "DSSP",
+          "notes": ""
+        },
+        "ENSC111": {
+          "title": "Mechanics I (Statics)",
+          "credits": 3,
+          "umd_equivalent": "ENES 102",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENSC211": {
+          "title": "Mechanics II (Dynamics)",
+          "credits": 3,
+          "umd_equivalent": "ENES 221",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENSC221": {
+          "title": "Mechanics of Materials",
+          "credits": 3,
+          "umd_equivalent": "ENES 220",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENSC251": {
+          "title": "Circuit Analysis",
+          "credits": 3,
+          "umd_equivalent": "ENEE 204",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENVS101": {
+          "title": "Intro to Environmental Science",
+          "credits": 4,
+          "umd_equivalent": "ENSP 101",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": ""
+        },
+        "ERSC121": {
+          "title": "Physical Geology",
+          "credits": 4,
+          "umd_equivalent": "GEOL 100",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": ""
+        },
+        "ERSC131": {
+          "title": "Meteorology",
+          "credits": 3,
+          "umd_equivalent": "AOSC 200",
+          "status": "direct",
+          "gen_ed": "DSNL or DSNS, SCIS",
+          "notes": ""
+        },
+        "GEOG101": {
+          "title": "Intro to Physical Geography",
+          "credits": 3,
+          "umd_equivalent": "GEOG 201",
+          "status": "direct",
+          "gen_ed": "DSNS",
+          "notes": ""
+        },
+        "GEOG102": {
+          "title": "Cultural Geography",
+          "credits": 3,
+          "umd_equivalent": "GEOG 202",
+          "status": "direct",
+          "gen_ed": "DSHS, DVCC",
+          "notes": ""
+        },
+        "HIST101": {
+          "title": "Western Civilization I",
+          "credits": 3,
+          "umd_equivalent": "HIST 111",
+          "status": "direct",
+          "gen_ed": "DSHS, DVUP",
+          "notes": ""
+        },
+        "HIST102": {
+          "title": "Western Civilization II",
+          "credits": 3,
+          "umd_equivalent": "HIST 113",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": ""
+        },
+        "HIST111": {
+          "title": "History of U.S. I",
+          "credits": 3,
+          "umd_equivalent": "HIST 200",
+          "status": "direct",
+          "gen_ed": "DSHS or DSHU",
+          "notes": ""
+        },
+        "HIST112": {
+          "title": "History of U.S. II",
+          "credits": 3,
+          "umd_equivalent": "HIST 201",
+          "status": "direct",
+          "gen_ed": "DSHS or DSHU, DVUP",
+          "notes": ""
+        },
+        "HIST116": {
+          "title": "African American History",
+          "credits": 3,
+          "umd_equivalent": "HIST 255",
+          "status": "direct",
+          "gen_ed": "DSHS, DVUP",
+          "notes": ""
+        },
+        "HIST155": {
+          "title": "History of Modern Asia",
+          "credits": 3,
+          "umd_equivalent": "HIST 285",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": ""
+        },
+        "HLTH101": {
+          "title": "Health & Wellness",
+          "credits": 3,
+          "umd_equivalent": "HLTH 140",
+          "status": "direct",
+          "gen_ed": "DSXX",
+          "notes": ""
+        },
+        "HLTH132": {
+          "title": "Basic Nutrition",
+          "credits": 3,
+          "umd_equivalent": "NFSC 100",
+          "status": "direct",
+          "gen_ed": "DSNS",
+          "notes": ""
+        },
+        "MATH111": {
+          "title": "Ideas in Mathematics",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "FSMA",
+          "notes": "Satisfies FSMA gen ed"
+        },
+        "MATH125": {
+          "title": "Finite Mathematics",
+          "credits": 3,
+          "umd_equivalent": "MATH 110",
+          "status": "direct",
+          "gen_ed": "FSMA",
+          "notes": ""
+        },
+        "MATH131": {
+          "title": "Concepts of Math I",
+          "credits": 3,
+          "umd_equivalent": "MATH 212",
+          "status": "direct",
+          "gen_ed": "FSMA",
+          "notes": "For education majors"
+        },
+        "MATH153": {
+          "title": "Intro to Statistical Methods",
+          "credits": 3,
+          "umd_equivalent": "STAT 100",
+          "status": "direct",
+          "gen_ed": "FSAR, FSMA",
+          "notes": ""
+        },
+        "MATH163": {
+          "title": "Pre-Calculus I",
+          "credits": 4,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "FSMA",
+          "notes": "Satisfies FSMA gen ed"
+        },
+        "MATH165": {
+          "title": "Pre-Calculus II",
+          "credits": 4,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "FSMA",
+          "notes": "Satisfies FSMA gen ed"
+        },
+        "MATH230": {
+          "title": "Calculus with Applications",
+          "credits": 3,
+          "umd_equivalent": "MATH 120",
+          "status": "direct",
+          "gen_ed": "FSAR, FSMA",
+          "notes": "Business calculus"
+        },
+        "MATH243": {
+          "title": "Discrete Mathematics",
+          "credits": 3,
+          "umd_equivalent": "CMSC 250",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": "Direct equivalency to CMSC 250"
+        },
+        "MATH251": {
+          "title": "Calculus I",
+          "credits": 4,
+          "umd_equivalent": "MATH 140",
+          "status": "direct",
+          "gen_ed": "FSAR, FSMA",
+          "notes": "Satisfies FSAR and FSMA gen ed"
+        },
+        "MATH252": {
+          "title": "Calculus II",
+          "credits": 4,
+          "umd_equivalent": "MATH 141",
+          "status": "direct",
+          "gen_ed": "FSMA",
+          "notes": ""
+        },
+        "MATH253": {
+          "title": "Calculus III",
+          "credits": 4,
+          "umd_equivalent": "MATH 241",
+          "status": "direct",
+          "gen_ed": "FSMA",
+          "notes": ""
+        },
+        "MATH257": {
+          "title": "Linear Algebra",
+          "credits": 3,
+          "umd_equivalent": "MATH 240",
+          "status": "direct",
+          "gen_ed": "FSMA",
+          "notes": ""
+        },
+        "MATH259": {
+          "title": "Differential Equations",
+          "credits": 3,
+          "umd_equivalent": "MATH 246",
+          "status": "direct",
+          "gen_ed": "FSMA",
+          "notes": ""
+        },
+        "PHIL101": {
+          "title": "Intro to Philosophy",
+          "credits": 3,
+          "umd_equivalent": "PHIL 100",
+          "status": "direct",
+          "gen_ed": "DSHU",
+          "notes": ""
+        },
+        "PHIL140": {
+          "title": "Ethics",
+          "credits": 3,
+          "umd_equivalent": "PHIL 140",
+          "status": "direct",
+          "gen_ed": "DSHU",
+          "notes": ""
+        },
+        "PHIL170": {
+          "title": "Logic",
+          "credits": 3,
+          "umd_equivalent": "PHIL 170",
+          "status": "direct",
+          "gen_ed": "FSAR",
+          "notes": ""
+        },
+        "PHYS101": {
+          "title": "Fundamentals of Physics I",
+          "credits": 4,
+          "umd_equivalent": "PHYS 121",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": "Algebra-based physics"
+        },
+        "PHYS102": {
+          "title": "Fundamentals of Physics II",
+          "credits": 4,
+          "umd_equivalent": "PHYS 122",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": "Algebra-based physics"
+        },
+        "PHYS151": {
+          "title": "General Physics I",
+          "credits": 4,
+          "umd_equivalent": "PHYS 161",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": "Calculus-based physics. Also equivalent to PHYS 261."
+        },
+        "PHYS251": {
+          "title": "General Physics II",
+          "credits": 4,
+          "umd_equivalent": "PHYS 260",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": "Also equivalent to PHYS 271"
+        },
+        "PHYS252": {
+          "title": "General Physics III",
+          "credits": 4,
+          "umd_equivalent": "PHYS 270",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": ""
+        },
+        "POLS101": {
+          "title": "American Government",
+          "credits": 3,
+          "umd_equivalent": "GVPT 170",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": ""
+        },
+        "POLS131": {
+          "title": "Comparative Government",
+          "credits": 3,
+          "umd_equivalent": "GVPT 280",
+          "status": "direct",
+          "gen_ed": "DSHS, DVUP",
+          "notes": ""
+        },
+        "POLS141": {
+          "title": "Intro to International Relations",
+          "credits": 3,
+          "umd_equivalent": "GVPT 200",
+          "status": "direct",
+          "gen_ed": "DSHS, DVUP",
+          "notes": ""
+        },
+        "PSYC101": {
+          "title": "General Psychology",
+          "credits": 3,
+          "umd_equivalent": "PSYC 100",
+          "status": "direct",
+          "gen_ed": "DSHS or DSNS",
+          "notes": "Satisfies DSHS or DSNS gen ed"
+        },
+        "PSYC103": {
+          "title": "Human Growth & Development",
+          "credits": 3,
+          "umd_equivalent": "EDHD 320",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": ""
+        },
+        "PSYC201": {
+          "title": "Abnormal Psychology",
+          "credits": 3,
+          "umd_equivalent": "PSYC 353",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "PSYC207": {
+          "title": "Social Psychology",
+          "credits": 3,
+          "umd_equivalent": "PSYC 221",
+          "status": "direct",
+          "gen_ed": "DSHS or DSSP",
+          "notes": ""
+        },
+        "SOCL101": {
+          "title": "Intro to Sociology",
+          "credits": 3,
+          "umd_equivalent": "SOCY 100",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": ""
+        },
+        "SOCL102": {
+          "title": "Social Problems",
+          "credits": 3,
+          "umd_equivalent": "SOCY 105",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": ""
+        },
+        "SOCL141": {
+          "title": "Racial/Cultural Minorities",
+          "credits": 3,
+          "umd_equivalent": "SOCY 241",
+          "status": "direct",
+          "gen_ed": "DSHS, DVUP",
+          "notes": ""
+        },
+        "THTR101": {
+          "title": "Intro to Theatre",
+          "credits": 3,
+          "umd_equivalent": "THET 110",
+          "status": "direct",
+          "gen_ed": "DSHU",
+          "notes": ""
+        },
+        "MNGT101": {
+          "title": "Intro to Business",
+          "credits": 3,
+          "umd_equivalent": "BMGT 110",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "MNGT140": {
+          "title": "Business Law I",
+          "credits": 3,
+          "umd_equivalent": "BMGT 380",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": "For older terms only, check dates"
+        },
+        "ASTM101": {
+          "title": "Astronomy",
+          "credits": 3,
+          "umd_equivalent": "ASTR 100",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": "Requires ASTM102 lab for DSNL"
+        },
+        "ARTD110": {
+          "title": "Two Dimensional Design",
+          "credits": 3,
+          "umd_equivalent": "ARTT 100",
+          "status": "direct",
+          "gen_ed": "DSSP",
+          "notes": ""
+        },
+        "ARTD111": {
+          "title": "Drawing I",
+          "credits": 3,
+          "umd_equivalent": "ARTT 110",
+          "status": "direct",
+          "gen_ed": "DSSP",
+          "notes": ""
+        },
+        "ARTD105": {
+          "title": "History of Art I",
+          "credits": 3,
+          "umd_equivalent": "ARTH 200",
+          "status": "direct",
+          "gen_ed": "DSHU, DVUP",
+          "notes": ""
+        },
+        "ARTD106": {
+          "title": "History of Art II",
+          "credits": 3,
+          "umd_equivalent": "ARTH 201",
+          "status": "direct",
+          "gen_ed": "DSHU, DVUP",
+          "notes": ""
+        },
+        "MUSC101": {
+          "title": "Music Fundamentals",
+          "credits": 3,
+          "umd_equivalent": "MUSC 140",
+          "status": "direct",
+          "gen_ed": "DSSP",
+          "notes": ""
+        },
+        "MUSC102": {
+          "title": "Music Appreciation",
+          "credits": 3,
+          "umd_equivalent": "MUSC 130",
+          "status": "direct",
+          "gen_ed": "DSHU",
+          "notes": ""
+        },
+        "DANC135": {
+          "title": "Dance Appreciation",
+          "credits": 3,
+          "umd_equivalent": "DANC 200",
+          "status": "direct",
+          "gen_ed": "DSSP, DVUP",
+          "notes": ""
+        },
+        "COMM101": {
+          "title": "Fundamentals of Speech",
+          "credits": 3,
+          "umd_equivalent": "COMM 107",
+          "status": "direct",
+          "gen_ed": "FSOC",
+          "notes": "Old course code. See CMNS101 for current."
+        },
+        "ECON111": {
+          "title": "Personal Finance",
+          "credits": 3,
+          "umd_equivalent": "FMSC 123",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "CRJU101": {
+          "title": "Intro to Criminal Justice",
+          "credits": 3,
+          "umd_equivalent": "CCJS 100",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": ""
+        },
+        "EDTR107": {
+          "title": "Intro to Special Education",
+          "credits": 3,
+          "umd_equivalent": "EDSP 470",
+          "status": "direct",
+          "gen_ed": "DVUP",
+          "notes": ""
+        },
+        "WMST101": {
+          "title": "Intro to Women's Studies",
+          "credits": 3,
+          "umd_equivalent": "WMST 200",
+          "status": "direct",
+          "gen_ed": "DSHS, DVUP",
+          "notes": ""
+        }
+      }
+    },
+    "MC": {
+      "name": "Montgomery College",
+      "abbreviation": "MC",
+      "total_courses": 73,
+      "courses": {
+        "CMSC203": {
+          "title": "Computer Science I",
+          "credits": 4,
+          "umd_equivalent": "CMSC 131",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": "Direct equivalency to CMSC 131. Fall 2018+."
+        },
+        "CMSC204": {
+          "title": "Computer Science II",
+          "credits": 4,
+          "umd_equivalent": "CMSC 132",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": "Direct equivalency to CMSC 132. Spring 2019+."
+        },
+        "CMSC207": {
+          "title": "Discrete Structures",
+          "credits": 3,
+          "umd_equivalent": "CMSC 250",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": "Direct equivalency to CMSC 250."
+        },
+        "CMSC216": {
+          "title": "Intro to Computer Systems",
+          "credits": 4,
+          "umd_equivalent": "CMSC 216",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": "Direct equivalency to CMSC 216. Spring 2020+."
+        },
+        "CMSC206": {
+          "title": "Python Programming",
+          "credits": 3,
+          "umd_equivalent": "INST 126",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": "Fall 2019+."
+        },
+        "CMSC140": {
+          "title": "Intro to Programming",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "",
+          "notes": "L1 elective only."
+        },
+        "CMSC141": {
+          "title": "Intermediate Programming",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "",
+          "notes": "L1 elective only."
+        },
+        "CMSC201": {
+          "title": "Java Programming Language",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "",
+          "notes": "L1 elective only."
+        },
+        "CMSC100": {
+          "title": "Fund Computer Programming",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "",
+          "notes": "L1 elective only."
+        },
+        "MATH181": {
+          "title": "Calculus I",
+          "credits": 4,
+          "umd_equivalent": "MATH 140",
+          "status": "direct",
+          "gen_ed": "FSAR, FSMA",
+          "notes": ""
+        },
+        "MATH182": {
+          "title": "Calculus II",
+          "credits": 4,
+          "umd_equivalent": "MATH 141",
+          "status": "direct",
+          "gen_ed": "FSMA",
+          "notes": ""
+        },
+        "MATH280": {
+          "title": "Multivariable Calculus",
+          "credits": 4,
+          "umd_equivalent": "MATH 241",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "MATH282": {
+          "title": "Differential Equations",
+          "credits": 3,
+          "umd_equivalent": "MATH 246",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "MATH284": {
+          "title": "Linear Algebra",
+          "credits": 3,
+          "umd_equivalent": "MATH 240",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "MATH117": {
+          "title": "Elements of Statistics",
+          "credits": 3,
+          "umd_equivalent": "STAT 100",
+          "status": "direct",
+          "gen_ed": "FSAR, FSMA",
+          "notes": ""
+        },
+        "MATH165": {
+          "title": "Precalculus",
+          "credits": 4,
+          "umd_equivalent": "MATH 115",
+          "status": "direct",
+          "gen_ed": "FSMA",
+          "notes": ""
+        },
+        "MATH150": {
+          "title": "Elem Applied Calculus I",
+          "credits": 3,
+          "umd_equivalent": "MATH 120",
+          "status": "direct",
+          "gen_ed": "FSAR, FSMA",
+          "notes": "Business calculus. Spring 2017+."
+        },
+        "MATH120": {
+          "title": "Survey of College Math",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "FSMA",
+          "notes": "Satisfies FSMA gen ed."
+        },
+        "MATH130": {
+          "title": "Elem Math I: Number Systems",
+          "credits": 3,
+          "umd_equivalent": "MATH 212",
+          "status": "direct",
+          "gen_ed": "FSMA",
+          "notes": "For education majors."
+        },
+        "MATH131": {
+          "title": "Elem Math II: Geom & Alg",
+          "credits": 3,
+          "umd_equivalent": "MATH 213",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "MATH207": {
+          "title": "Intro to Discrete Structures",
+          "credits": 3,
+          "umd_equivalent": "CMSC 250",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": "Fall 2018+. Same as CMSC207."
+        },
+        "ENES100": {
+          "title": "Intro Engineering Design",
+          "credits": 3,
+          "umd_equivalent": "ENES 100",
+          "status": "direct",
+          "gen_ed": "DSSP",
+          "notes": ""
+        },
+        "ENES102": {
+          "title": "Statics",
+          "credits": 3,
+          "umd_equivalent": "ENES 102",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENES220": {
+          "title": "Mechanics of Materials",
+          "credits": 3,
+          "umd_equivalent": "ENES 220",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENES221": {
+          "title": "Dynamics",
+          "credits": 3,
+          "umd_equivalent": "ENES 221",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENES232": {
+          "title": "Thermodynamics",
+          "credits": 3,
+          "umd_equivalent": "ENES 232",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENEE140": {
+          "title": "Intro Prog Concepts Engr",
+          "credits": 3,
+          "umd_equivalent": "ENEE 140",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENEE244": {
+          "title": "Digital Logic Design",
+          "credits": 3,
+          "umd_equivalent": "ENEE 244",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENEE207": {
+          "title": "Electric Circuits",
+          "credits": 3,
+          "umd_equivalent": "ENEE 205",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENGL102": {
+          "title": "Critical Reading Writing Research",
+          "credits": 3,
+          "umd_equivalent": "ENGL 101",
+          "status": "direct",
+          "gen_ed": "FSAW",
+          "notes": "Fall 2015+. Maps to ENGL 101/FSAW."
+        },
+        "ENGL103": {
+          "title": "Critical Reading Writing Res Workshop",
+          "credits": 3,
+          "umd_equivalent": null,
+          "status": "elective",
+          "gen_ed": "FSAW",
+          "notes": "Satisfies FSAW gen ed."
+        },
+        "ENGL110": {
+          "title": "Principles English Grammar",
+          "credits": 3,
+          "umd_equivalent": "ENGL 281",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENGL201": {
+          "title": "Intro World Literature I",
+          "credits": 3,
+          "umd_equivalent": "ENGL 201",
+          "status": "direct",
+          "gen_ed": "DSHU, DVUP",
+          "notes": ""
+        },
+        "ENGL202": {
+          "title": "Intro World Literature II",
+          "credits": 3,
+          "umd_equivalent": "ENGL 202",
+          "status": "direct",
+          "gen_ed": "DSHU, DVUP",
+          "notes": ""
+        },
+        "ENGL211": {
+          "title": "Survey American Lit I",
+          "credits": 3,
+          "umd_equivalent": "ENGL 221",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "ENGL212": {
+          "title": "Survey American Lit II",
+          "credits": 3,
+          "umd_equivalent": "ENGL 222",
+          "status": "direct",
+          "gen_ed": "DSHU",
+          "notes": ""
+        },
+        "ENGL213": {
+          "title": "Survey British Lit I",
+          "credits": 3,
+          "umd_equivalent": "ENGL 211",
+          "status": "direct",
+          "gen_ed": "DSHU",
+          "notes": ""
+        },
+        "ENGL214": {
+          "title": "Survey British Lit II",
+          "credits": 3,
+          "umd_equivalent": "ENGL 212",
+          "status": "direct",
+          "gen_ed": "DSHU",
+          "notes": ""
+        },
+        "BIOL150": {
+          "title": "Principles of Biology I",
+          "credits": 4,
+          "umd_equivalent": "BSCI 170",
+          "status": "direct",
+          "gen_ed": "DSNL or DSNS",
+          "notes": "Fall 2016+. Also maps to BSCI 171."
+        },
+        "BIOL151": {
+          "title": "Principles of Biology II",
+          "credits": 4,
+          "umd_equivalent": "BSCI 160",
+          "status": "direct",
+          "gen_ed": "DSNL or DSNS",
+          "notes": "Fall 2016+."
+        },
+        "BIOL210": {
+          "title": "Microbiology",
+          "credits": 4,
+          "umd_equivalent": "BSCI 223",
+          "status": "direct",
+          "gen_ed": "DSNL, SCIS",
+          "notes": ""
+        },
+        "BIOL212": {
+          "title": "Human Anat & Phys I",
+          "credits": 4,
+          "umd_equivalent": "BSCI 201",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": ""
+        },
+        "BIOL213": {
+          "title": "Human Anat & Phys II",
+          "credits": 4,
+          "umd_equivalent": "BSCI 202",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": ""
+        },
+        "BIOL222": {
+          "title": "Principles of Genetics",
+          "credits": 4,
+          "umd_equivalent": "BSCI 222",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "BIOL226": {
+          "title": "Nutrition",
+          "credits": 3,
+          "umd_equivalent": "NFSC 100",
+          "status": "direct",
+          "gen_ed": "DSNS",
+          "notes": ""
+        },
+        "CHEM131": {
+          "title": "Principles Chemistry I",
+          "credits": 4,
+          "umd_equivalent": "CHEM 131",
+          "status": "direct",
+          "gen_ed": "DSNL or DSNS",
+          "notes": "Also maps to CHEM 132."
+        },
+        "CHEM132": {
+          "title": "Principles Chemistry II",
+          "credits": 4,
+          "umd_equivalent": "CHEM 271",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": ""
+        },
+        "CHEM135": {
+          "title": "General Chemistry Engrs",
+          "credits": 4,
+          "umd_equivalent": "CHEM 135",
+          "status": "direct",
+          "gen_ed": "DSNL or DSNS",
+          "notes": "Also maps to CHEM 136."
+        },
+        "CHEM203": {
+          "title": "Organic Chemistry I",
+          "credits": 4,
+          "umd_equivalent": "CHEM 231",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": "Also maps to CHEM 232."
+        },
+        "CHEM204": {
+          "title": "Organic Chemistry II",
+          "credits": 4,
+          "umd_equivalent": "CHEM 241",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": "Also maps to CHEM 242."
+        },
+        "PHYS161": {
+          "title": "Gen Physics I: Mech & Heat",
+          "credits": 4,
+          "umd_equivalent": "PHYS 161",
+          "status": "direct",
+          "gen_ed": "DSNL or DSNS",
+          "notes": "Calculus-based."
+        },
+        "PHYS262": {
+          "title": "Electricity and Magnetism",
+          "credits": 4,
+          "umd_equivalent": "PHYS 260",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": "Also maps to PHYS 261."
+        },
+        "PHYS263": {
+          "title": "Waves Optics Mod Physics",
+          "credits": 4,
+          "umd_equivalent": "PHYS 270",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": "Also maps to PHYS 271."
+        },
+        "PHYS203": {
+          "title": "General Physics I (non-engr)",
+          "credits": 4,
+          "umd_equivalent": "PHYS 121",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": "Algebra-based."
+        },
+        "PHYS204": {
+          "title": "General Physics II (non-engr)",
+          "credits": 4,
+          "umd_equivalent": "PHYS 122",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": "Algebra-based."
+        },
+        "ECON201": {
+          "title": "Principles Economics (Macro)",
+          "credits": 3,
+          "umd_equivalent": "ECON 201",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": ""
+        },
+        "ECON202": {
+          "title": "Principles Economics II (Micro)",
+          "credits": 3,
+          "umd_equivalent": "ECON 200",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": ""
+        },
+        "PSYC100": {
+          "title": "General Psychology",
+          "credits": 3,
+          "umd_equivalent": "PSYC 100",
+          "status": "direct",
+          "gen_ed": "DSHS or DSNS",
+          "notes": "Fall 2023+. Previously PSYC102."
+        },
+        "HIST200": {
+          "title": "US History Colonial-1865",
+          "credits": 3,
+          "umd_equivalent": "HIST 200",
+          "status": "direct",
+          "gen_ed": "DSHS or DSHU",
+          "notes": ""
+        },
+        "HIST201": {
+          "title": "US History 1865-Present",
+          "credits": 3,
+          "umd_equivalent": "HIST 201",
+          "status": "direct",
+          "gen_ed": "DSHS or DSHU, DVUP",
+          "notes": ""
+        },
+        "POLI101": {
+          "title": "American Government",
+          "credits": 3,
+          "umd_equivalent": "GVPT 170",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": ""
+        },
+        "POLI203": {
+          "title": "International Relations",
+          "credits": 3,
+          "umd_equivalent": "GVPT 200",
+          "status": "direct",
+          "gen_ed": "DSHS, DVUP",
+          "notes": ""
+        },
+        "POLI211": {
+          "title": "Comparative Politics/Government",
+          "credits": 3,
+          "umd_equivalent": "GVPT 280",
+          "status": "direct",
+          "gen_ed": "DSHS, DVUP",
+          "notes": ""
+        },
+        "SOCY100": {
+          "title": "Intro to Sociology",
+          "credits": 3,
+          "umd_equivalent": "SOCY 100",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": ""
+        },
+        "SOCY105": {
+          "title": "Social Problems & Issues",
+          "credits": 3,
+          "umd_equivalent": "SOCY 105",
+          "status": "direct",
+          "gen_ed": "DSHS",
+          "notes": ""
+        },
+        "COMM108": {
+          "title": "Found Human Communication",
+          "credits": 3,
+          "umd_equivalent": "COMM 107",
+          "status": "direct",
+          "gen_ed": "FSOC",
+          "notes": "Spring 2019+."
+        },
+        "PHIL101": {
+          "title": "Intro Philosophy",
+          "credits": 3,
+          "umd_equivalent": "PHIL 100",
+          "status": "direct",
+          "gen_ed": "DSHU",
+          "notes": ""
+        },
+        "PHIL140": {
+          "title": "Intro Study of Ethics",
+          "credits": 3,
+          "umd_equivalent": "PHIL 140",
+          "status": "direct",
+          "gen_ed": "DSHU",
+          "notes": ""
+        },
+        "PHIL190": {
+          "title": "Elem Logic & Semantics",
+          "credits": 3,
+          "umd_equivalent": "PHIL 170",
+          "status": "direct",
+          "gen_ed": "FSAR",
+          "notes": ""
+        },
+        "BSAD101": {
+          "title": "Intro to Business",
+          "credits": 3,
+          "umd_equivalent": "BMGT 110",
+          "status": "direct",
+          "gen_ed": "",
+          "notes": ""
+        },
+        "BSAD210": {
+          "title": "Statistics for Bus & Econ",
+          "credits": 3,
+          "umd_equivalent": "BMGT 230",
+          "status": "direct",
+          "gen_ed": "FSAR",
+          "notes": ""
+        },
+        "GEOL101": {
+          "title": "Physical Geology",
+          "credits": 4,
+          "umd_equivalent": "GEOL 100",
+          "status": "direct",
+          "gen_ed": "DSNL or DSNS",
+          "notes": "Also maps to GEOL 110."
+        },
+        "ASTR101": {
+          "title": "Intro Astronomy",
+          "credits": 3,
+          "umd_equivalent": "ASTR 101",
+          "status": "direct",
+          "gen_ed": "DSNL",
+          "notes": ""
+        }
+      }
+    }
+  },
+  "umd_cs_requirements": {
+    "core": [
+      {
+        "course": "CMSC 131",
+        "title": "Object-Oriented Programming I",
+        "credits": 4
+      },
+      {
+        "course": "CMSC 132",
+        "title": "Object-Oriented Programming II",
+        "credits": 4
+      },
+      {
+        "course": "CMSC 216",
+        "title": "Intro to Computer Systems",
+        "credits": 4
+      },
+      {
+        "course": "CMSC 250",
+        "title": "Discrete Structures",
+        "credits": 4
+      },
+      {
+        "course": "CMSC 330",
+        "title": "Organization of Programming Languages",
+        "credits": 3
+      },
+      {
+        "course": "CMSC 351",
+        "title": "Algorithms",
+        "credits": 3
+      }
+    ],
+    "math": [
+      {
+        "course": "MATH 140",
+        "title": "Calculus I",
+        "credits": 4
+      },
+      {
+        "course": "MATH 141",
+        "title": "Calculus II",
+        "credits": 4
+      },
+      {
+        "course": "STAT 400",
+        "title": "Applied Prob & Stat",
+        "credits": 3
+      }
+    ],
+    "notes": "CMSC 330, CMSC 351, and STAT 400 must be taken at UMD. Lower-division courses (131, 132, 216, 250) and math can transfer."
+  }
+}
