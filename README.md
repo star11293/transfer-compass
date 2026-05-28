@@ -1,6 +1,6 @@
 # Transfer Compass 🧭
 
-**See how your community college courses transfer to UMD — instantly.**
+**See how your community college courses transfer to UMD;instantly.**
 
 Built at Bitcamp 2026 (UMD Hackathon).
 
